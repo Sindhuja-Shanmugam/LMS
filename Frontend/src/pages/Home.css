@@ -1,0 +1,21 @@
+.profile-container {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.profile-card {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 300px;
+}
+
+.profile-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
